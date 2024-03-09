@@ -1,24 +1,21 @@
-This is free and unencumbered software released into the public domain.
+ICT自用许可证
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+© 2024 IceCreamTeam 版权所有
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+在开发完成时，所有代码将以此许可证进行开源发布。如果您想要使用被此许可证所保护的代码，请遵守以下条款：
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+1.禁止任何商业性使用。您不可以将使用了被此许可证保护的代码的项目用于商业性用途。
 
-For more information, please refer to <https://unlicense.org>
+2.保留原作者/代码库名称。您需要在使用了此许可证保护的代码的项目中明确标明使用了谁的代码，并且标明使用了哪一个代码库中的哪一部分。
+
+3.禁止在使用了被此许可证保护的代码的项目等的名称中包含与原作者相关的或与代码库名称相关的内容，也禁止在名称中包含任何代码贡献者的名称（除非其本人同意）。但是为代码进行扩展维护或原作者声明可以的情况下除外。
+
+4.禁止将使用了此许可证保护的代码的项目进行任何专利化。
+
+5.分发此许可证保护的代码(或其他内容)时，请让他人从原始的代码仓库进行下载，禁止通过网盘/群聊等方式分发，作者特殊声明除外。
+
+6.如果您的项目开源并使用了本许可证保护的代码，请保留原许可证文本或链接，但是您可以使用其他许可证开源。
+
+您可以对使用了此许可证保护的代码的项目进行闭源处理。
+
+当产生纠纷时，以您目前正在阅读的这个中文版本为准。
