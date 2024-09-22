@@ -1,4 +1,4 @@
-简体中文版 | [ENGLISH VERSION](https://github.com/IceCreamTeamICT/LineLauncher/blob/main/README-EN.md)
+简体中文版 | [English(United States)](https://github.com/IceCreamTeamICT/LineLauncher/blob/main/README-EN.md)
 
 ![LOGO](/logo.png "LOGO")
 
