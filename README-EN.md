@@ -18,4 +18,7 @@ The `C#` version is subject to the same self-written licence as the majority of 
 This repository has a `GitHub Pages` site, which is currently serving as the official website of `LMC`. The link is <https://line.icecreamteam.win>.
 
 ## Copyright
-Line Launcher's old logo(Blue purple irregular shape) is not used. It will be remove in a week.
+The LMC logo in greenish-purple is part of the Canva Paintable Premium library, and LinearTeam is legally entitled to use it commercially in accordance with the following diagram:
+
+(link)[https://www.canva.cn/china-integrations/subscription/authorization-letter?id=35366406]
+![image](https://github.com/user-attachments/assets/0d00bd4c-c4d3-4ca2-a0b3-dcafd0e997ca)
