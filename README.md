@@ -18,4 +18,7 @@
 该仓库有一个`GitHub Pages`，暂时作为`LMC`的官网。链接是<https://line.icecreamteam.win>。
 
 ## 版权声明
-`Line Launcher`的前Logo（蓝紫色不规则图形）将很快被弃用，预计一周内将其移除。
+`LMC`的青紫色不规则logo属于Canva可画高级版素材库，`LinearTeam`按照下图依法享有对logo的商业使用权:
+(链接)[https://www.canva.cn/china-integrations/subscription/authorization-letter?id=35366406]
+![image](https://github.com/user-attachments/assets/0d00bd4c-c4d3-4ca2-a0b3-dcafd0e997ca)
+
