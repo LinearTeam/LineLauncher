@@ -1,4 +1,4 @@
-English(United States) | [简体中文版](https://github.com/LinearTeam/LineLauncher/blob/main/README.md)
+  English(United States) | [简体中文版](https://github.com/LinearTeam/LineLauncher/blob/main/README.md)
 
 ![LOGO](/logo.png "LOGO")
 
@@ -12,7 +12,7 @@ The main warehouse of the `Line launcher`. Hereinafter referred to as *this laun
 Another version has been developed by `PyQt5` and is being developed by [I_Love_Ei](https://github.com/iloveei), theoretically supporting all computers that can run `Python 3.12.6` (Upward compatibility). It has a [code repository](https://github.com.IloveEi/Line-Minecraft-Launcher/tree/RefactorByIloveEi) which can be found here, and it will be moved to LinearTeam's repositories.
 
 ## License
-The `C#` version is subject to the same self-written licence as the majority of `LinearTeam` projects, while the `Python` version is licensed under the `Apache 2.0 licence`.
+The `C#` version and `Python` version are all licensed under the `Apache 2.0 licence`.
 
 ## Website
 This repository has a `GitHub Pages` site, which is currently serving as the official website of `LMC`. The link is <https://line.icecreamteam.win>.
