@@ -21,4 +21,4 @@ This repository has a `GitHub Pages` site, which is currently serving as the off
 The LMC logo in greenish-purple is part of the Canva Paintable Premium library, and LinearTeam is legally entitled to use it commercially in accordance with the following diagram:
 
 (link)[https://www.canva.cn/china-integrations/subscription/authorization-letter?id=35366406]
-![image](https://github.com/user-attachments/assets/0d00bd4c-c4d3-4ca2-a0b3-dcafd0e997ca)
+![image](https://github.com/user-attachments/assets/441eeeec-5f1e-4f17-b765-3901171b711d)
