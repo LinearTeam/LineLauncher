@@ -18,6 +18,4 @@
 该仓库有一个`GitHub Pages`，暂时作为`LMC`的官网。链接是<https://line.icecreamteam.win>。
 
 ## 版权声明
-`LMC`的青紫色不规则logo属于Canva可画高级版素材库，`LinearTeam`按照下图依法享有对logo的商业使用权:
-(链接)[https://www.canva.cn/china-integrations/subscription/authorization-letter?id=35366406]
-![image](https://github.com/user-attachments/assets/85cfc621-edab-4793-9486-48748e228b8d)
+`LMC`的青紫色不规则logo属于Canva可画高级版素材库，`LinearTeam`成员皇鱼已订阅Canva可画高级版，依法享有对logo的商业使用权。
