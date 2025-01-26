@@ -18,7 +18,4 @@ The `C#` version and `Python` version are all licensed under the `Apache 2.0 lic
 This repository has a `GitHub Pages` site, which is currently serving as the official website of `LMC`. The link is <https://line.icecreamteam.win>.
 
 ## Copyright
-The LMC logo in greenish-purple is part of the Canva Paintable Premium library, and LinearTeam is legally entitled to use it commercially in accordance with the following diagram:
-
-(link)[https://www.canva.cn/china-integrations/subscription/authorization-letter?id=35366406]
-![image](https://github.com/user-attachments/assets/441eeeec-5f1e-4f17-b765-3901171b711d)
+The LMC logo in greenish-purple is part of the Canva Paintable Premium library, and LinearTeam is legally entitled to use it commercially in accordance.
