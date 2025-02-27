@@ -12,7 +12,13 @@
 另一个版本是`PyQt`版本。由[影宝](https://github.com/iloveei)开发，理论上支持所有可以运行 `Python 3.12.6` (向上兼容)的计算机，但是由于使用`Windows api`及`cmd`程序的缘故，暂时无法在其他平台使用。不过，后续或许会提供优化版以跨平台。其有一个[代码仓库](https://github.com/IloveEi/Line-Minecraft-Launcher/tree/RefactorByIloveEi)，后续会移到LinearTeam的仓库中。
 
 ## 协议
-`C#`和`Python`版本目前的仓库使用`Apache2.0`。
+`C#`和`Python`版本目前的仓库使用`Apache2.0`。 
+
+在使用Line启动器之前，请阅读我们的隐私政策：
+
+<https://docs.qq.com/doc/DRFBjYXJzQ0dBVkV5>
+
+最后更新：2025年2月27日
 
 ## 网页
 该仓库有一个`GitHub Pages`，暂时作为`LMC`的官网。链接是<https://line.icecreamteam.win>。
