@@ -14,6 +14,13 @@ Another version has been developed by `PyQt5` and is being developed by [I_Love_
 ## License
 The `C#` version and `Python` version are all licensed under the `Apache 2.0 licence`.
 
+Before using the Line launcher, please read our privacy policy:
+
+<https://docs.qq.com/doc/DRFBjYXJzQ0dBVkV5>
+
+Last update: February 27, 2025
+
+
 ## Website
 This repository has a `GitHub Pages` site, which is currently serving as the official website of `LMC`. The link is <https://line.icecreamteam.win>.
 
