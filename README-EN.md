@@ -8,11 +8,17 @@ The main warehouse of the `Line launcher`. Hereinafter referred to as *this laun
 
 ## Description
 `Line Launcher` is a launcher for [Minecraft](https://minecraft.net) : `Java Edition`. `LMC` performs functions such as Microsoft login, game download and installation. 
-`LMC` is available in two versions, the `C#` version was developed by [Huangyu](https://github.com/tmdakm), and is available via the following [code repository](https://github.com/LinearTeam/LineLauncherCs/). Please note that the `C#` version is only compatible with `Windows`. If your system is not Windows but can run `WPF` applications, we kindly ask that you try compiling a special version and/or contact us.  
-Another version has been developed by `PyQt5` and is being developed by [I_Love_Ei](https://github.com/iloveei), theoretically supporting all computers that can run `Python 3.12.6` (Upward compatibility). It has a [code repository](https://github.com.IloveEi/Line-Minecraft-Launcher/tree/RefactorByIloveEi) which can be found here, and it will be moved to LinearTeam's repositories.
+
+`LMC` is available in two versions, 
+
+the `C#` version was developed by [Huangyu](https://github.com/tmdakm), and is available via the following [code repository](https://github.com/LinearTeam/LineLauncherCs/).
+
+Another `Visual Basic` version was developed by [I Love Ei](https://github.com/iloveei), and is available via the following [code repository](https://github.com/LinearTeam/LineLauncherVb/).
+
+All the versions are developed by [`Avalonia`](https://github.com/AvaloniaUI/Avalonia), and are cross-platform.
 
 ## License
-The `C#` version and `Python` version are all licensed under the `Apache 2.0 licence`.
+The `C#` version and `Visual Basic` version are all licensed under the `Apache 2.0 licence`.
 
 Before using the Line launcher, please read our privacy policy:
 
